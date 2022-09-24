@@ -2,6 +2,8 @@
 REST-API prosjekt fra udemy kurs av in28minutes
 REST-API project from Udemy Course by in28minutes
 
+Made in Eclipse
+
 # Norsk 
 Dette er et REST-API prosjekt fra Udemy kurset "Master Microservices with Spring Boot and Spring Cloud" fra URL: https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/
 
