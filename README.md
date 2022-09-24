@@ -1,7 +1,9 @@
 # REST-API
-REST-API prosjekt fra udemy kurs av in28minutes
+REST-API prosjekt kode hentet fra udemy kurs av bruker in28minutes
 
-REST-API project from Udemy Course by in28minutes
+REST-API project code retrieved from Udemy Course by user in28minutes
+
+Everything was coded manually.
 
 Made in Eclipse
 
